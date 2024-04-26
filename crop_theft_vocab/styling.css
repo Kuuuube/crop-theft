@@ -1,0 +1,68 @@
+.card {
+  font-size: 20px;
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "MS UI Gothic", Mincho, sans-serif;
+  text-align: center;
+}
+
+.size50 {font-size: 50px;}
+.size30 {font-size: 30px;}
+.size25 {font-size: 25px;}
+.size20 {font-size: 20px;}
+.red_underline {text-decoration: underline red;}
+
+#example_sentence {
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+#definition {
+  text-align: left;
+}
+
+#reading {
+  text-align: center;
+}
+
+.negativebr {
+  display: block;
+  content: "";
+  margin-top: -15px;
+}
+
+/* AnkiDroid replay button */
+
+.replaybutton {
+  margin: 0;
+  text-decoration: none;
+}
+
+.replaybutton span {
+  padding: 0;
+  font-size: 16px;
+}
+
+.replaybutton span svg {
+  fill: #fffaf0;
+  background: #333;
+  border-radius: 3px;
+  vertical-align: top;
+  min-width: 16px;
+  min-height: 16px;
+}
+
+/* PC replay button */
+
+a.replay-button {
+  top: -0.125em;
+  position: relative;
+  margin: 0;
+  user-select: none;
+  cursor: pointer;
+}
+
+a.replay-button svg {
+  height: 1em;
+  width: 1em;
+  user-select: none;
+}
