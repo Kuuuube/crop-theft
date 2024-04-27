@@ -10,7 +10,7 @@ Front                                                      |  Back
 
 ### Quick Install
 
-- Download [Crop Theft Vocab Anki Deck](./crop_theft_vocab/Crop%20Theft%20Vocab.apkg).
+- Download [Crop Theft Vocab Anki Deck](https://raw.githubusercontent.com/Kuuuube/crop-theft/main/crop_theft_vocab/Crop%20Theft%20Vocab.apkg).
 
 - Load the deck into Anki.
 
