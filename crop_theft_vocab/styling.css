@@ -24,12 +24,6 @@
   text-align: center;
 }
 
-.negativebr {
-  display: block;
-  content: "";
-  margin-top: -15px;
-}
-
 /* AnkiDroid replay button */
 
 .replaybutton {
