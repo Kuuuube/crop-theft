@@ -19,7 +19,7 @@
 <script>
   //Delete "No pitch accent data" from Yomitan
   if (document.getElementById("pitch_pattern").innerHTML == "No pitch accent data") {
-		document.getElementById("pitch_pattern").innerHTML = "";
+    document.getElementById("pitch_pattern").innerHTML = "";
   }
 
   //Force multiple pitch accents from jidoujisho to be on the same line
@@ -30,12 +30,12 @@
 
   //Delete "Example Sentence" if it equals "Example Target"
   if ("{{Example Sentence}}" == "{{Example Target}}") {
-		document.getElementById("example_sentence").remove();
+    document.getElementById("example_sentence").remove();
   }
 
   //Delete "Reading" if it equals "Word"
   if ("{{Reading}}" == "{{Word}}") {
-		document.getElementById("reading").remove();
+    document.getElementById("reading").remove();
   }
 
   //Add underline to "Word" or "Example Target" in "Example Sentence"
