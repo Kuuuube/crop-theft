@@ -17,11 +17,6 @@
 
 
 <script>
-  //Delete "No pitch accent data" from Yomitan
-  if (document.getElementById("pitch_pattern").innerHTML == "No pitch accent data") {
-    document.getElementById("pitch_pattern").innerHTML = "";
-  }
-
   //Force multiple pitch accents from jidoujisho to be on the same line
   document.getElementById("pitch_pattern").innerHTML = document.getElementById("pitch_pattern").innerHTML.replaceAll("<br>", " ");
 
