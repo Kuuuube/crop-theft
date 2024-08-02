@@ -18,8 +18,14 @@
 
 #definition {
   text-align: left;
+  max-width: max(max(50vw, 50vh), 500px);
 }
 
+#definition-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 /* Shrink jitendex example sentence */
 
