@@ -20,8 +20,11 @@
   text-align: left;
 }
 
-#reading {
-  text-align: center;
+
+/* Shrink jitendex example sentence */
+
+[data-sc-content="example-sentence"] {
+  font-size: 10px;
 }
 
 /* AnkiDroid replay button */
