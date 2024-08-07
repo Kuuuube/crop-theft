@@ -5,14 +5,13 @@ ul[data-sc-content="glossary"] > li:not(:first-child)::before {
     display: inline;
     color: #777777;
   }
-  
+
   ul[data-sc-content="glossary"] > li {
     display: inline;
   }
-  
+
   ul[data-sc-content="glossary"] {
     display: inline;
     list-style: none;
     padding-left: 0;
   }
-  
