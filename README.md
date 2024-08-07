@@ -34,3 +34,7 @@ Front                                                      |  Back
 | Example Target   | {search-query}            | Cloze Inside |
 | Frequency        | {frequency-harmonic-rank} | Frequency    |
 | Notes            |                           | Empty        |
+
+### Modifications (Optional)
+
+[Compact Gloss](./crop_theft_vocab/modifications/compact_gloss/README.md)
