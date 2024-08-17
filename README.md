@@ -16,6 +16,8 @@ Front                                                      |  Back
 
 - You will now have the Crop Theft Vocab note type. You can either use the `Crop Theft Vocab` deck directly or delete it and use the note type in your own deck.
 
+- Check [Guides](README.md#guides) if you aren't sure where to go from here.
+
 ### Note Template
 
 | [Front Template](./crop_theft_vocab/front_template.html) | [Back Template](./crop_theft_vocab/back_template.html) | [Styling](./crop_theft_vocab/styling.css) |
@@ -34,6 +36,12 @@ Front                                                      |  Back
 | Example Target   | {search-query}            | Cloze Inside |
 | Frequency        | {frequency-harmonic-rank} | Frequency    |
 | Notes            |                           | Empty        |
+
+### Guides
+
+[Yomitan Setup](./crop_theft_vocab/guides/yomitan_setup.md)
+
+[Jidoujisho Setup](./crop_theft_vocab/guides/jidoujisho_setup.md)
 
 ### Modifications (Optional)
 
