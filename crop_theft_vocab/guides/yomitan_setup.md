@@ -1,5 +1,7 @@
 # Yomitan Setup
 
+You must have the [Ankiconnect](https://ankiweb.net/shared/info/2055492159) add-on installed in Anki to use Anki integration in Yomitan. Anki must also be running on your computer.
+
 1. Open the Yomitan settings page. (Click the Yomitan icon and then the cog symbol)
 
 2. Go to the `Anki` section of settings.
