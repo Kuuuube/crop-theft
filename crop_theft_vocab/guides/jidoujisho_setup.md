@@ -19,3 +19,5 @@ You must have [AnkiDroid](https://github.com/ankidroid/Anki-Android/releases/lat
 8. Select `Save`.
 
 9. Select the export profile you just created. It will be highlighed when selected.
+
+10. You will now be able to add a card to Anki by clicking the right pointing arrow button ![](../images/jidoujisho_add_button.png) when scanning a word.
