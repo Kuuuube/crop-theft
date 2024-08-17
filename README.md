@@ -16,7 +16,7 @@ Front                                                      |  Back
 
 - You will now have the Crop Theft Vocab note type. You can either use the `Crop Theft Vocab` deck directly or delete it and use the note type in your own deck.
 
-- Check [Guides](README.md#guides) if you aren't sure where to go from here.
+- Check [Guides](#guides) if you aren't sure where to go from here.
 
 ### Note Template
 
