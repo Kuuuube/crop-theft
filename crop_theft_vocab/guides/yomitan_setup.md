@@ -17,3 +17,5 @@ For android users, setting up [Ankiconnect Android](https://github.com/KamWithK/
 6. Select the desired deck and select `Crop Theft Vocab` for the model.
 
 7. Copy and paste each item in the Yomitan column from [field setup](../../README.md#field-setup) into the `Value` section in Yomitan.
+
+8. You will now be able to add a card to Anki by clicking the larger green plus button ![](../images/yomitan_add_button.png) when scanning a word.
