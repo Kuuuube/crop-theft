@@ -1,5 +1,7 @@
 # Jidoujisho Setup
 
+You must have [AnkiDroid](https://github.com/ankidroid/Anki-Android/releases/latest) ([Google Play](https://play.google.com/store/apps/details?id=com.ichi2.anki), [F-Droid](https://f-droid.org/packages/com.ichi2.anki/)) installed.
+
 1. Select the top right `⋮` symbol.
 
 2. Select `Export profiles`.
