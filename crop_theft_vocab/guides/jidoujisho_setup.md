@@ -20,4 +20,10 @@ You must have [AnkiDroid](https://github.com/ankidroid/Anki-Android/releases/lat
 
 9. Select the export profile you just created. It will be highlighed when selected.
 
-10. You will now be able to add a card to Anki by clicking the right pointing arrow button ![](../images/jidoujisho_add_button.png) when scanning a word.
+10. Select `Close`.
+
+11. Open the `Card Creator` on the top right menu <img width="16" height="16" src="../images/jidoujisho_card_creator_button.png"/>.
+
+12. In the dropdown at the top, select the Anki deck to export to. Once set, you do not need to create a card and can just click the back arrow.
+
+13. You will now be able to add a card to Anki by clicking the right pointing arrow button ![](../images/jidoujisho_add_button.png) when scanning a word.
