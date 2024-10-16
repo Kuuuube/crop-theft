@@ -45,6 +45,8 @@ Front                                                      |  Back
 
 [Frequency Sorting in Anki](./crop_theft_vocab/guides/frequency_sorting_anki.md)
 
+[FAQ](./crop_theft_vocab/guides/faq.md)
+
 ### Modifications (Optional)
 
 [Compact Gloss](./crop_theft_vocab/modifications/compact_gloss/README.md)
