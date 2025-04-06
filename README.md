@@ -43,6 +43,8 @@ Front                                                      |  Back
 
 [Jidoujisho Setup](./crop_theft_vocab/guides/jidoujisho_setup.md)
 
+[Duplicate Checking](./crop_theft_vocab/guides/duplicate_checking.md)
+
 [Frequency Sorting in Anki](./crop_theft_vocab/guides/frequency_sorting_anki.md)
 
 [FAQ](./crop_theft_vocab/guides/faq.md)
