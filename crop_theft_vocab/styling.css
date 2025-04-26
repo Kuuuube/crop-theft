@@ -13,7 +13,6 @@
 #example_sentence {
   width: 100%;
   overflow: hidden;
-  white-space: nowrap;
 }
 
 #definition {
