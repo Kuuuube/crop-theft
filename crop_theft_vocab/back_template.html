@@ -31,7 +31,7 @@
   }
 
   //Delete "Reading" if it equals "Word"
-  if (`{{Reading}}` == `{{Word}}`) {
+  if (document.getElementById("reading").textContent == document.getElementById("word").textContent) {
     document.getElementById("reading").remove();
   }
 
