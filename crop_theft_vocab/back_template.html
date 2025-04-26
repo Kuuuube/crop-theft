@@ -26,18 +26,18 @@
   document.getElementById("pitch_pattern").innerHTML = document.getElementById("pitch_pattern").innerHTML.replaceAll("<ol>", "").replaceAll("<li>", " ");
 
   //Delete "Example Sentence" if it equals "Example Target"
-  if ("{{Example Sentence}}" == "{{Example Target}}") {
+  if (`{{Example Sentence}}` == `{{Example Target}}`) {
     document.getElementById("example_sentence").remove();
   }
 
   //Delete "Reading" if it equals "Word"
-  if ("{{Reading}}" == "{{Word}}") {
+  if (`{{Reading}}` == `{{Word}}`) {
     document.getElementById("reading").remove();
   }
 
   //Add underline to "Word" or "Example Target" in "Example Sentence"
   document.getElementById("example_sentence").innerHTML = document.getElementById("example_sentence").innerHTML.replaceAll("{{Word}}", "<span class=\"red_underline\">{{Word}}</span>");
-  if ("{{Example Target}}" != "") {
+  if (`{{Example Target}}`.length > 0) {
     document.getElementById("example_sentence").innerHTML = document.getElementById("example_sentence").innerHTML.replaceAll("{{Example Target}}", "<span class=\"red_underline\">{{Example Target}}</span>");
   }
 
