@@ -10,9 +10,11 @@ For android users, setting up [Ankiconnect Android](https://github.com/KamWithK/
 
 3. Enable `Enable Anki integration`.
 
-4. Click `Configure Anki card format…`
+4. Click `Configure Anki flashcards...`
 
-5. Make sure you have the `Terms` tab selected.
+5. Make sure you have the `Expression` tab selected.
+
+    Optionally, you can repeat the below steps for the `Reading` tab. Just put `{reading}` for the first field instead of `{expression}`.
 
 6. Select the desired deck and select `Crop Theft Vocab` for the model.
 
